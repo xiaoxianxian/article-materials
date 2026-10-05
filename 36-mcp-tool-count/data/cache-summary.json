@@ -1,0 +1,88 @@
+[
+  {
+    "label": "r1-codemode",
+    "prompt": "Reply with the single word: OK",
+    "elapsed": 97.8,
+    "usage": {
+      "input": 422,
+      "output": 48,
+      "cacheRead": 10515,
+      "cacheWrite": 0,
+      "reasoning": 0,
+      "totalTokens": 10985,
+      "cost": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "label": "r2-codemode",
+    "prompt": "Reply with the single word: STILL",
+    "elapsed": 22.4,
+    "usage": {
+      "input": 19,
+      "output": 35,
+      "cacheRead": 10985,
+      "cacheWrite": 0,
+      "reasoning": 0,
+      "totalTokens": 11039,
+      "cost": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "label": "r3-codemode",
+    "prompt": "Reply with the single word: AGAIN",
+    "elapsed": 2.3,
+    "usage": {
+      "input": 19,
+      "output": 19,
+      "cacheRead": 11039,
+      "cacheWrite": 0,
+      "reasoning": 0,
+      "totalTokens": 11077,
+      "cost": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "label": "r4-direct",
+    "prompt": "Reply with the single word: SWITCHED",
+    "elapsed": 57.4,
+    "usage": {
+      "input": 14763,
+      "output": 23,
+      "cacheRead": 113,
+      "cacheWrite": 0,
+      "reasoning": 0,
+      "totalTokens": 14899,
+      "cost": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "label": "r5-direct",
+    "prompt": "Reply with the single word: FIFTH",
+    "elapsed": 6.6,
+    "usage": null
+  }
+]

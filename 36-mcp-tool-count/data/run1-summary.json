@@ -1,0 +1,54 @@
+[
+  {
+    "label": "5-codemode",
+    "toolCount": 5,
+    "exposure": "codemode",
+    "nonce": "whh855ff",
+    "elapsed": 54.3,
+    "usage": {
+      "input": 10237,
+      "output": 17,
+      "cacheRead": 2,
+      "cacheWrite": 0,
+      "reasoning": 0,
+      "totalTokens": 10256,
+      "cost": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "total": 0
+      }
+    },
+    "promptTokens": 10239,
+    "toolNameHits": 0,
+    "mcpRefs": 6,
+    "codemodeRefs": 36
+  },
+  {
+    "label": "10-codemode",
+    "toolCount": 10,
+    "exposure": "codemode",
+    "nonce": "akurjsjo",
+    "elapsed": 61.8,
+    "usage": {
+      "input": 6412,
+      "output": 21,
+      "cacheRead": 3826,
+      "cacheWrite": 0,
+      "reasoning": 0,
+      "totalTokens": 10259,
+      "cost": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "total": 0
+      }
+    },
+    "promptTokens": 10238,
+    "toolNameHits": 0,
+    "mcpRefs": 6,
+    "codemodeRefs": 36
+  }
+]

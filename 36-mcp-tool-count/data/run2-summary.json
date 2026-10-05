@@ -1,0 +1,132 @@
+[
+  {
+    "label": "0-none",
+    "toolCount": 0,
+    "exposure": "none",
+    "nonce": "5odoewa3",
+    "elapsed": 52.9,
+    "usage": {
+      "input": 7924,
+      "output": 33,
+      "cacheRead": 2,
+      "cacheWrite": 0,
+      "reasoning": 0,
+      "totalTokens": 7959,
+      "cost": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "total": 0
+      }
+    },
+    "promptTokens": 7926,
+    "toolNameHits": 0,
+    "mcpRefs": 0,
+    "codemodeRefs": 0
+  },
+  {
+    "label": "20-codemode",
+    "toolCount": 20,
+    "exposure": "codemode",
+    "nonce": "19e6ankb",
+    "elapsed": 83,
+    "usage": {
+      "input": 10238,
+      "output": 18,
+      "cacheRead": 2,
+      "cacheWrite": 0,
+      "reasoning": 0,
+      "totalTokens": 10258,
+      "cost": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "total": 0
+      }
+    },
+    "promptTokens": 10240,
+    "toolNameHits": 0,
+    "mcpRefs": 6,
+    "codemodeRefs": 36
+  },
+  {
+    "label": "20-direct",
+    "toolCount": 20,
+    "exposure": "direct",
+    "nonce": "xhp4yqau",
+    "elapsed": 386.8,
+    "usage": {
+      "input": 995,
+      "output": 22,
+      "cacheRead": 13023,
+      "cacheWrite": 0,
+      "reasoning": 0,
+      "totalTokens": 14040,
+      "cost": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "total": 0
+      }
+    },
+    "promptTokens": 14018,
+    "toolNameHits": 3,
+    "mcpRefs": 60,
+    "codemodeRefs": 0
+  },
+  {
+    "label": "60-codemode",
+    "toolCount": 60,
+    "exposure": "codemode",
+    "nonce": "nul631fc",
+    "elapsed": 51.7,
+    "usage": {
+      "input": 10126,
+      "output": 18,
+      "cacheRead": 113,
+      "cacheWrite": 0,
+      "reasoning": 0,
+      "totalTokens": 10257,
+      "cost": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "total": 0
+      }
+    },
+    "promptTokens": 10239,
+    "toolNameHits": 0,
+    "mcpRefs": 6,
+    "codemodeRefs": 36
+  },
+  {
+    "label": "60-direct",
+    "toolCount": 60,
+    "exposure": "direct",
+    "nonce": "eela9kne",
+    "elapsed": 134,
+    "usage": {
+      "input": 26103,
+      "output": 25,
+      "cacheRead": 113,
+      "cacheWrite": 0,
+      "reasoning": 0,
+      "totalTokens": 26241,
+      "cost": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "total": 0
+      }
+    },
+    "promptTokens": 26216,
+    "toolNameHits": 3,
+    "mcpRefs": 180,
+    "codemodeRefs": 0
+  }
+]

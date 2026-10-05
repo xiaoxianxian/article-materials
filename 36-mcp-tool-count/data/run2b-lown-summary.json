@@ -1,0 +1,54 @@
+[
+  {
+    "label": "5-direct",
+    "toolCount": 5,
+    "exposure": "direct",
+    "nonce": "3rcnbk8y",
+    "elapsed": 73.5,
+    "usage": {
+      "input": 9335,
+      "output": 22,
+      "cacheRead": 113,
+      "cacheWrite": 0,
+      "reasoning": 0,
+      "totalTokens": 9470,
+      "cost": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "total": 0
+      }
+    },
+    "promptTokens": 9448,
+    "toolNameHits": 3,
+    "mcpRefs": 15,
+    "codemodeRefs": 0
+  },
+  {
+    "label": "10-direct",
+    "toolCount": 10,
+    "exposure": "direct",
+    "nonce": "htpzprnm",
+    "elapsed": 202.9,
+    "usage": {
+      "input": 8712,
+      "output": 18,
+      "cacheRead": 2255,
+      "cacheWrite": 0,
+      "reasoning": 0,
+      "totalTokens": 10985,
+      "cost": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "total": 0
+      }
+    },
+    "promptTokens": 10967,
+    "toolNameHits": 3,
+    "mcpRefs": 30,
+    "codemodeRefs": 0
+  }
+]
