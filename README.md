@@ -16,7 +16,7 @@
 
 | 文章 | 篇名 | 材料目录 | 日期 | 里面是什么 |
 |---|---|---|---|---|
-| #36 | MCP 工具挂几个算贵？3 到 8 个是分水岭，但真正的账在缓存 | [`36-mcp-tool-count/`](36-mcp-tool-count/README.md) | 2026-10-06 | Pi 0.99.2 两份对照：挂载成本矩阵 + prompt cache 打穿六轮读数，含零依赖 MCP mock server |
+| #36 | **《MCP 工具挂几个算贵？3 到 8 个是交叉点》**（[公众号已发 2026-10-06](https://mp.weixin.qq.com/s/KPlmlvWeBR_k96jizhA5wg)） | [`36-mcp-tool-count/`](36-mcp-tool-count/README.md) | 2026-10-06 | Pi 0.99.2 两份对照：挂载成本矩阵 + prompt cache 打穿六轮读数，含零依赖 MCP mock server |
 
 （新增材料时按行追加，别改已有行。）
 
