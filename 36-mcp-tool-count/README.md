@@ -1,6 +1,6 @@
 # Pi 0.99.2：`codemode` vs `direct` 挂载成本实测材料
 
-对应文章《MCP 工具挂几个算贵？3 到 8 个是分水岭，但真正的账在缓存》（"两笔账"那一节的数字出处）。
+对应文章《MCP 工具挂几个算贵？3 到 8 个是交叉点》（公众号 2026-10-06 已发：<https://mp.weixin.qq.com/s/KPlmlvWeBR_k96jizhA5wg>，"两笔账"那一节的数字出处）。
 
 这是一组**可自己重跑**的实验材料：一个零依赖的 MCP mock server + 四个 runner + 汇总读数。
 
